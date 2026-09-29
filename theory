@@ -1,9 +1,11 @@
 AWS CloudFormation — 
 1. What is CloudFormation?
 
-AWS CloudFormation is an Infrastructure as Code (IaC) service that allows you to create and manage AWS resources using a template file instead of creating everything manually from the AWS Console.
+AWS CloudFormation is an Infrastructure as Code (IaC) service that allows you to 
+create and manage AWS resources using a template file instead of creating everything manually from the AWS Console.
 
-You define your infrastructure in YAML or JSON, and CloudFormation creates the required resources for you.
+You define your infrastructure in YAML or JSON, and CloudFormation
+creates the required resources for you.
 
 Simple example:
 
@@ -91,6 +93,7 @@ IAM
 RDS
 Lambda
 Security Group
+
 4. Parameters
 
 Parameters allow you to provide values when creating a stack instead of hardcoding them.
